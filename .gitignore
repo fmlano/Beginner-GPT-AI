@@ -1,0 +1,8 @@
+.streamlit/
+env/
+vtt/
+txt/
+book/
+index/
+.chroma/
+__pycache__/
